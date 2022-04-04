@@ -1,0 +1,20 @@
+body{
+    background: url(../img/Señal.jpg);
+    text-align: center;
+}
+h1{
+    color: #07d5fa;
+}
+h2{
+    color: #16acc7;
+}
+p{
+    color: azure;
+}
+button{
+    padding: 12px 40px;
+    color: rgb(209, 226, 220);
+    border: 2px solid rgb(51, 83, 59);
+    border-radius: 15px;
+    background: rgb(31, 57, 61);
+}
